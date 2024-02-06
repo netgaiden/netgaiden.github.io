@@ -14,8 +14,8 @@ author:
   avatar: '/images/01.jpg'
 
 social:
-- {icon: "ion-logo-linkedin", label: LinkedIn, link: "www.linkedin.com/in/bobbie-edwards-89367a1b3"}
-- {icon: "ion-logo-github", label: LinkedIn, link: "netgaiden.github.io"}
+- {icon: "ion-logo-linkedin", label: LinkedIn, link: "https://www.linkedin.com/in/bobbie-edwards-89367a1b3"}
+- {icon: "ion-logo-github", label: LinkedIn, link: "https://netgaiden.github.io"}
 - {icon: "ion-logo-twitter", label: Twitter, link: "https://twitter.com/NetGaiden"}
 #- {icon: "ion-logo-facebook", label: Facebook, link: "https://facebook.com"}
 #- {icon: "ion-logo-pinterest", label: Pinterest, link: "https://pinterest.com"}
